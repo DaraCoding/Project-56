@@ -1,0 +1,25 @@
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+}
+
+p {
+    display: block;
+    background-color:white;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    background-color: white;
+}
+.nature_image{
+    height:550px;
+    width:550px;
+}
